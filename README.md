@@ -1,24 +1,9 @@
-# README
+# Stock Marker App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first Ruby on Rails Applicaiton.
 
-Things you may want to cover:
+By Cory Flowers
 
-* Ruby version
+CodeSafe.tech
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+6/23/2020
